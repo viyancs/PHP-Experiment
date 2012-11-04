@@ -19,7 +19,7 @@ Usage
 $data = array(5,23,3,5,8,1,0,3,8,9,11,15);
 print_r(vquicksort($data));
 
-//after sorting
+//result after sorting
 Array
 (
     [0] => 0
