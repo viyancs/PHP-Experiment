@@ -77,4 +77,4 @@ Tested
 
 Reference
 ---------
-function (uksort)[php.net/manual/en/function.uksort.php]
+function [uksort](php.net/manual/en/function.uksort.php)
