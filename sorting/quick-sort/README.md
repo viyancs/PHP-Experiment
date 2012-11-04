@@ -44,11 +44,7 @@ Tested
 <li> result with number,character . number will be place on first before character </li>
 <li> result character on array is good </li>
 <li> other , i hope any someone can tested with more complex data, and if have bugs please create issue and i will try to fix that </li>
-
-
-Demo
------
-Quicksort [Demo page] (http://jsfiddle.net/gh/get/jquery/1.8.2/viyancs/JS-Fiddle-Experiment/tree/master/sorting/quick-sort/demo/)
+</ol>
 
 Reference
 ---------
