@@ -12,7 +12,7 @@
  * @author M Sofiyan
  * @email msofyancs@gmail.com
  * @skypeid viyancs
- * @url https://github.com/viyancs/PHP-Experiment/tree/master/sort/quick-sort
+ * @url https://github.com/viyancs/PHP-Experiment/tree/master/sorting/quick-sort
  * @reference
  	article : 
 		http://en.wikipedia.org/wiki/Quicksort
