@@ -42,7 +42,7 @@ function money_return($price,$pay) {
 
          $opportunities =  $fixReturn / $money[$i];
 
-         if($opportunities % 1 === 0) {
+         if(!is_float($opportunities) ) {
             $fixReturn = $fixReturn - $money[$i] * $opportunities;
             $returnMoney[$money[$i]] = $opportunities;
          }
