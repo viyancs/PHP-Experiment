@@ -66,6 +66,6 @@ function money_return($price, $pay) {
     return $returnMoney;
 }
 
-$rm = money_return(1000, 100000);
+$rm = money_return(1, 100000);
 var_dump($rm);
 ?>
